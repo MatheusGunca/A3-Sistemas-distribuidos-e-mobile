@@ -1,0 +1,19 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+table {
+  border-collapse: collapse;
+  border-width: 3px;
+  font-size: 18px;
+  table-layout: ;
+}
+tr th{
+  text-align: center;
+}
+td{
+  width: 50%;
+  text-align: center;
+}
